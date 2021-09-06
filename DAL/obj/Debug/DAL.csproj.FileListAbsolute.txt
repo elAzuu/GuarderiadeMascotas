@@ -1,0 +1,14 @@
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderideMascotas\DAL\bin\Debug\DAL.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderideMascotas\DAL\bin\Debug\DAL.pdb
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderideMascotas\DAL\bin\Debug\BE.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderideMascotas\DAL\bin\Debug\BE.pdb
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderideMascotas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderideMascotas\DAL\obj\Debug\DAL.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderideMascotas\DAL\obj\Debug\DAL.pdb
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\DAL\obj\Debug\DAL.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\DAL\obj\Debug\DAL.pdb
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\DAL\bin\Debug\DAL.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\DAL\bin\Debug\DAL.pdb
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\DAL\bin\Debug\BE.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\DAL\bin\Debug\BE.pdb

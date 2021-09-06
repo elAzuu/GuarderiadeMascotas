@@ -1,0 +1,4 @@
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\Interfases\bin\Debug\Interfases.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\Interfases\bin\Debug\Interfases.pdb
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\Interfases\obj\Debug\Interfases.dll
+E:\Julián\Académico\Sistemas - UAI\3er año\Trabajo final integrador\Proyecto final\GuarderiadeMascotas\Interfases\obj\Debug\Interfases.pdb
